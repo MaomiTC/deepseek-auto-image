@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiohttp
+jinja2
+pyautogui
+pillow
+selenium
+emoji 
