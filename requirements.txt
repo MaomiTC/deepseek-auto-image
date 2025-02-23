@@ -1,8 +1,25 @@
-fastapi
-uvicorn
-aiohttp
-jinja2
-pyautogui
-pillow
-selenium
-emoji 
+# Web 框架和相关依赖
+fastapi>=0.68.0
+uvicorn>=0.15.0
+httpx>=0.24.0
+pydantic>=1.8.0
+
+# GUI 相关
+pyautogui>=0.9.53
+pynput>=1.7.6
+keyboard>=0.13.5
+
+# 浏览器自动化
+selenium>=4.0.0
+
+# HTML 模板引擎
+jinja2>=3.0.0
+
+# 其他工具库
+emoji>=2.2.0
+python-multipart>=0.0.5
+aiohttp>=3.8.0
+asyncio>=3.4.3
+
+# 开发工具
+python-dotenv>=0.19.0 
